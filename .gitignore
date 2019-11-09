@@ -1,4 +1,7 @@
 **/*.ipynb_checkpoints
 **/*.DS_Store
 **/*.ipynb_checkpoints
+**/*.doc
+**/*.m
+**/*.docx
 **/__pycache__
